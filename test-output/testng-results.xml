@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-07T22:46:48 EDT" name="Default suite" finished-at="2025-05-07T22:46:51 EDT" duration-ms="3201">
+    <groups>
+    </groups>
+    <test started-at="2025-05-07T22:46:48 EDT" name="Default test" finished-at="2025-05-07T22:46:51 EDT" duration-ms="3201">
+      <class name="com.Testscenarios.corntab">
+        <test-method signature="f()[pri:0, instance:com.Testscenarios.corntab@2a4fb17b]" started-at="2025-05-07T22:46:48 EDT" name="f" finished-at="2025-05-07T22:46:51 EDT" duration-ms="3138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.Testscenarios.corntab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
