@@ -18,7 +18,7 @@ public class Demobranch {
 		//Scroll to the element
 				JavascriptExecutor js = (JavascriptExecutor) driver;
 				js.executeScript("arguments[0].click();",driver.findElement(By.linkText("Need Help?")));
-		
+		System.out.println("checking branch");
 		// TODO Auto-generated method stub
 
 	}
